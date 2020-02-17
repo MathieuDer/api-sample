@@ -1,6 +1,6 @@
 # DevCamper API
 
-> Backend API for DevCamper application, which is bootcamp directory website
+> Backend API for DevCamper application, which is bootcamp directory website | Live version at https://playvent.fr
 
 ## Usage
 
